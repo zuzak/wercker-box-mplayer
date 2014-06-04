@@ -1,6 +1,6 @@
-name: ubuntu14.04
-version: 1.0.0
-description: Ubuntu 12.04 upgraded to 14.04
+name: ubuntu14.04mplayer
+version: 1.0.1
+description: Ubuntu 14.04 with mplayer
 type: main
 platform: ubuntu@12.04
 keywords:
